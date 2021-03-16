@@ -10,7 +10,7 @@ namespace A892569.Actividad01
     {
         static void Main(string[] args)
         {
-            Console.Write("Hola mundo!");
+            Console.WriteLine("Hola mundo!");
             Console.WriteLine("Presione cualquier tecla para salir.");
             Console.ReadKey();
         }
