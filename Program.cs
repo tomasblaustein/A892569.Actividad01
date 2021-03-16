@@ -11,7 +11,8 @@ namespace A892569.Actividad01
         static void Main(string[] args)
         {
             Console.Write("Hola mundo!");
-            Console.ReadLine();
+            Console.WriteLine("Presione cualquier tecla para salir.");
+            Console.ReadKey();
         }
     }
 }
