@@ -10,7 +10,6 @@ namespace A892569.Actividad01
     {
         static void Main(string[] args)
         {
-            // Estoy probando si  actualiza
             Console.WriteLine("Hola mundo!");
             Console.WriteLine("Presione cualquier tecla para salir.");
             Console.ReadKey();
